@@ -3,12 +3,12 @@
 - 👀 I’m interested in Embedded Software development and IOT.
 
 ## I have done projects using AVR MIcrocontroller like :
- ### 1. Stop-Watch System :
+ ### 1. Stop-Watch :
 -  Developed a system that controls the stop-watch time and displays it on 7-segments.
 -   Drivers: GPIO, Timer, External Interrupts, and 7-Segment.
 -    controller used: ATmega32 Microcontroller
     
- ### 2. Fan Controller system :
+ ### 2. Fan Speed Controller based on Temperature: :
 -  Developed a system that controls the speed of a fan depending on the temperature.
 -  Drivers: GPIO, ADC, PWM, LM35, LCD, and DC-Motor.
 -   controller used: ATmega32 Microcontroller.
